@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "pretty": true,
+    "jsx": "react",
+    "baseUrl": "src"
+  }
+}
