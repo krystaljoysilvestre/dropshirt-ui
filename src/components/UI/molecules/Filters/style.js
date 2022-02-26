@@ -43,7 +43,7 @@ export const DropdownContainer = styled.div`
 export const CheckboxLabel = styled.div`
   display: flex;
   justify-content: space-between;
-  width: 100%;
+  width: calc(100% - 30px);
 
   span {
     color: ${props => props.theme.text.lightGray};

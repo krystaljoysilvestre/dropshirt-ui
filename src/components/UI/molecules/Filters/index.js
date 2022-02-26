@@ -41,7 +41,7 @@ const Filters = () => {
 
   const category = (
     <DropdownContainer>
-      <Checkbox onChange={() => {}} block>
+      <Checkbox checked onChange={() => {}} block>
         <CheckboxLabel>
           Men
           <span>(120)</span>

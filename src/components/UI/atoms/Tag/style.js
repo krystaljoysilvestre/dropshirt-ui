@@ -7,6 +7,6 @@ export const StyledTag = styled(Tag)`
   border-radius: 15px;
   padding: 0 10px;
   height: 24px;
-  line-height: 23px;
+  line-height: 24px;
   color: ${props => props.theme.text.gray};
 `;
